@@ -1,3 +1,10 @@
+## para atualizar o arquivo
+
+git fetch upstream
+git pull upstream main
+
+
+
 # Semana 9: SQL básico
 
 Conteúdo
