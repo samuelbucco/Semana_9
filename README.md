@@ -1,7 +1,5 @@
-## para atualizar o arquivo
-
-- git fetch upstream
-- git pull upstream main
+## Veja o tutorial do github 
+ - Arquivo em pdf
 
 
 
